@@ -40,4 +40,4 @@ fi
 
 echo "/usr/local/bin/kubectl" >> $GITHUB_PATH
 
-kubectl $*
+$*
